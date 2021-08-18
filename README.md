@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Romina
 
-<!--
-**RominaMartin/rominamartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science engineer by the University of La Laguna.
 
-Here are some ideas to get you started:
+- 💼 I am working as a frontend developer
+- 🌱 Learning about cultivating my own garden
+- 🚴🏻 Love all kind of sports
+- [ 🌴 | 🏙 ] You'll either find me in Tenerife or Madrid
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Get in touch
+
+- twitter: [rominamartinlib](https://twitter.com/rominamartinlib)
+- github: [RominaMartin](https://github.com/RominaMartin)
+- web: [rominamartin.github.io](https://rominamartin.github.io/)
