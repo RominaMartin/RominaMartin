@@ -13,12 +13,7 @@
 
 ## Work
 
-I've been working as a front-end developer [@urbanDataAnalytics](https://twitter.com/uDataAnalytics) since 2017.
-
-The majority of projects I've been a part of involves user interaction to obtain information either in a table or a map. That's why I enjoy working with maps, most of the time I've used Mapbox.
-
-I'm usually working with ReactJS and Redux-Thunk to state management. 
-
+I joined [hotjar](https://www.hotjar.com/) as a software engineer in January 2022.
 
 ## Projects
 -   Slides generator. From a google sheets document generate slides with a pre-defined template [not uploaded]
