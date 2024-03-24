@@ -2,7 +2,7 @@
 
 > Computer science engineer working as Front end Software Engineer.
 > 
-> I have a passion for solving problems.
+> I am the most motivated when building useful tools that make people happier in any way
 
 ## 📬 Get in touch
 
